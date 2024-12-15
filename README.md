@@ -9,8 +9,7 @@ This project investigates the relationship between economic indicators such as G
 ## Colab Worksheet
 Access the Colab worksheet with the analysis and visualizations [here](https://colab.research.google.com/drive/1c2FPResnkg_V9Ull1de4L-d6xcJqO55e?usp=sharing).
 
-### **Introduction**. Describe the data and data source(s). Describe the question(s) you are attempting to answer. Give a broad overview of your analysis approach.
-
+### **Introduction**. 
    **Data and data source(s) (Data range is (1992,12/03/2024\])**
 
 - Who is the president and what their party affiliation   
@@ -35,7 +34,7 @@ Access the Colab worksheet with the analysis and visualizations [here](https://c
 5. How has the performance of the S\&P 500 varied across different industries over time, and what trends or patterns can be identified in sector-specific growth, volatility, and resilience to economic cycles?  
 - **Analysis Approach**: Break down the historical performance of the S\&P 500 by sector, calculating key metrics such as average annual returns, volatility, and drawdowns for each industry. Use time-series analysis to identify periods of relative strength or weakness across sectors and explore correlations with macroeconomic indicators and major market events.
 
-### **Methods & Results.** Describe in detail the data preparation and any issues or concerns with the data. Describe your analysis. Present tables and/or visualizations. Tables and visualizations should be accompanied by captions as well as by in-text descriptions.
+### **Methods & Results.** 
 
    1. Issues or concerns   
 - The validity of the data of S\&P 500 Performance by sector   
