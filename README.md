@@ -56,9 +56,9 @@ Volatility trends of S\&P 500 during election cycles.under Democratic (blue) and
 ![][image5]  
 S\&P 500 performance of Price closes at the end of each year over time since 1993 by sector where Democratic (blue) and Republican (red) are in the white house 
 
-3. ### Conclusions. Referring to the Methods section, discuss the answers to the questions you posed in your Introduction. Point out limitations and reservations you have about the conclusions. Describe areas for further study.
+3. ### **Conclusions** 
 
-1. ### **Answers** 
+
 
 1. **Impact of Presidential Administrations on S\&P 500 Performance**
 
