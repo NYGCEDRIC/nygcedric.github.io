@@ -103,10 +103,6 @@ S\&P 500 performance of Price closes at the end of each year over time since 199
 
    Further research could focus on sector-specific responses, global market influences, and predictive modeling of market trends under varying political conditions and political policies (Tax cuts, tariffs, investment incentives). This analysis provides a foundation but highlights the need for more detailed investigations.
 
-## 4\. Group assessment
-
-It's hard to say but it could be 50/50
-
 ## References
 
 - Party Division." *U.S. Senate*, United States Senate, [www.senate.gov/history/partydiv.htm](http://www.senate.gov/history/partydiv.htm). Accessed 3 Dec. 2024\.  
