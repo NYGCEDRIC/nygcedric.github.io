@@ -23,26 +23,26 @@ Access the Colab worksheet with the analysis and visualizations [here](https://c
 
 		**Questions** 
 
-1. How do different presidential administrations correlate with the performance of the S\&P 500? Which president had the most significant impact on market performance?  
+** How do different presidential administrations correlate with the performance of the S\&P 500? Which president had the most significant impact on market performance? **
    - **Analysis Approach**: Merge S\&P 500 data with economic policy event timelines, identifying key dates for major policies. Perform time-series analysis to measure pre- and post-impact on stock prices, using statistical tests to verify significance.  
-2. What is the correlation between long-term economic growth indicators (like GDP growth rates) and the returns of the S\&P 500? Are there periods where market performance leads or lags GDP growth?  
+** What is the correlation between long-term economic growth indicators (like GDP growth rates) and the returns of the S\&P 500? Are there periods where market performance leads or lags GDP growth?**  
 - **Analysis Approach**: Aggregate and merge GDP growth rate data with S\&P 500 performance. Use lagged correlation analysis and regression modeling to explore potential causative or predictive relationships.  
-3. Is there a pattern of stock market volatility that coincides with presidential election cycles? Does the S\&P 500 experience more volatility during election years, and if so, does this vary by political party?  
+**Is there a pattern of stock market volatility that coincides with presidential election cycles? Does the S\&P 500 experience more volatility during election years, and if so, does this vary by political party?**
 - **Analysis Approach**: Calculate historical volatility metrics for the S\&P 500 during election and non-election years. Use statistical tests or regression models to identify potential relationships between election years, political party changes, and market fluctuations.  
-4. How do different combinations of who is in control of congress and white house impact the S\&P 500 and which ones are the best and worst and would it be possible to predict the market trends in future?  
+**How do different combinations of who is in control of congress and white house impact the S\&P 500 and which ones are the best and worst and would it be possible to predict the market trends in future?** 
 - **Analysis Approach**: Calculate historical volatility metrics for the S\&P 500 for each combination. Use statistical tests or regression models to identify potential relationships between each set of combinations and political power, and market fluctuations.  
-5. How has the performance of the S\&P 500 varied across different industries over time, and what trends or patterns can be identified in sector-specific growth, volatility, and resilience to economic cycles?  
+**How has the performance of the S\&P 500 varied across different industries over time, and what trends or patterns can be identified in sector-specific growth, volatility, and resilience to economic cycles?**
 - **Analysis Approach**: Break down the historical performance of the S\&P 500 by sector, calculating key metrics such as average annual returns, volatility, and drawdowns for each industry. Use time-series analysis to identify periods of relative strength or weakness across sectors and explore correlations with macroeconomic indicators and major market events.
 
 ### **Methods & Results.** 
 
-   1. Issues or concerns   
+  ** Issues or concerns **  
 - The validity of the data of S\&P 500 Performance by sector   
 - The volatility of the data especially stocks   
 - National and World crisis and their impact on the markets e.g.September 9, 2001 terrorist attacks, 2008 financial crisis, 2020 Covid pandemic
 
 
-  2. Visualizations 
+  **Visualizations **
 
 [![][image1]](https://drive.google.com/file/d/1GSg1zKzPDAOznfS99_efjgGyUGI2pqBT/view?usp=drive_link)  
   Click on the image to interact with the chart and explore the data, including S\&P 500 performance and GDP trends under Democratic (blue) and Republican (red) administrations.  
@@ -56,31 +56,30 @@ Volatility trends of S\&P 500 during election cycles.under Democratic (blue) and
 ![][image5]  
 S\&P 500 performance of Price closes at the end of each year over time since 1993 by sector where Democratic (blue) and Republican (red) are in the white house 
 
-3. ### **Conclusions** 
+### **Conclusions** 
 
 
-
-1. **Impact of Presidential Administrations on S\&P 500 Performance**
+ **Impact of Presidential Administrations on S\&P 500 Performance**
 
    Observations from the graph and data analysis indicate that the S\&P 500 has historically shown robust growth under both Democratic and Republican administrations. However, sharper increases are often seen during Democratic administrations, particularly during periods of economic recovery and strong policy support, such as during the Obama years from 2009 to 2017\. This suggests that while the broader economic environment plays a critical role, policy initiatives during Democratic terms have had a positive correlation with market performance.
 
-2.  **Correlation Between GDP Growth and S\&P 500 Returns**
+ **Correlation Between GDP Growth and S\&P 500 Returns**
 
    The graph and datasets indicate a positive correlation between GDP growth and S\&P 500 returns, aligning with economic theory that a growing economy boosts corporate earnings and thereby stock prices. Particularly in years of high GDP growth, such as the late 1990s and mid-2010s, the S\&P 500 also significantly increased. Regression analysis would likely confirm GDP growth as a predictor or concurrent indicator of S\&P 500 trends.
 
-3. **Pattern of Stock Market Volatility During Presidential Election Cycles**
+ **Pattern of Stock Market Volatility During Presidential Election Cycles**
 
    The volatility graphs reveal increased market volatility during presidential election years, reflecting the market's sensitivity to political uncertainty. This trend holds across both Democratic and Republican election cycles, with heightened volatility evident in election years such as 2000, 2008, and 2016\. This pattern suggests that elections introduce a degree of uncertainty that affects market behavior, regardless of the party.
 
-4.  **Impact of Congressional and White House Control on S\&P 500**
+ **Impact of Congressional and White House Control on S\&P 500**
 
    Historical data shows that the S\&P 500 tends to perform better when Democrats control both the White House and Congress, as observed in the early 1990s and during the first two years of the Obama administration. This combination has been associated with higher average annual returns compared to periods of Republican control or divided government, suggesting that investor confidence may be higher during periods of Democratic control.
 
-5. **S\&P 500 Performance Across Different Industries Over Time**
+ **S\&P 500 Performance Across Different Industries Over Time**
 
    Sector analysis shows varying performance across industries, with the Technology sector experiencing significant growth during the dot-com era and the mid-2010s tech boom. Energy also shows significant fluctuations corresponding to changes in oil prices and energy policies. This variability highlights the influence of both macroeconomic factors and sector-specific events on market performance, underscoring the need for diversified investment strategies to mitigate risks associated with economic cycles and policy changes.
 
-2. ### **Conclusion** 
+ ### **Conclusion** 
 
    Our analysis has shed light on the nuanced relationships between political climates, economic indicators, and the S\&P 500's performance, revealing key insights into how different administrations influence market dynamics.
 
@@ -90,7 +89,7 @@ S\&P 500 performance of Price closes at the end of each year over time since 199
 
    Overall, this exploration underscores that while markets respond to immediate political changes, long-term performance is deeply connected to broader economic policies and the global economic landscape. These insights are invaluable for investors and policymakers, providing the necessary context to anticipate market trends and make informed decisions in a politically dynamic economic environment. This balanced perspective recognizes the complex interplay between politics, economics, and market performance, emphasizing the importance of a well-rounded understanding in navigating investment strategies.
 
-3. ### **Limitations**
+ ### **Limitations**
 
 - **Data Scope and Availability**: Limited data might not capture all factors affecting the S\&P 500, such as global events or unexpected market shifts.  
 - Historical Bias: Past market trends may not reliably predict future movements due to evolving economic and political landscapes.  
@@ -99,7 +98,7 @@ S\&P 500 performance of Price closes at the end of each year over time since 199
 - Sector-Specific Variations: Differences in industry-specific dynamics might not be fully accounted for, affecting the accuracy of sectoral analysis.  
 - **Time Lag Effects:** Economic policies often have delayed impacts on the markets, complicating the attribution of effects to specific policies or administrations.
 
-4. ### **Areas for Further Study**
+ ### **Areas for Further Study**
 
    Further research could focus on sector-specific responses, global market influences, and predictive modeling of market trends under varying political conditions and political policies (Tax cuts, tariffs, investment incentives). This analysis provides a foundation but highlights the need for more detailed investigations.
 
