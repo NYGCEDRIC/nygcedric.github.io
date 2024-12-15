@@ -1,4 +1,4 @@
-# Homework 09: Project Part II: Analysis write-up
+# Analyzing Economic Trends: S&P 500 Performance, GDP Growth, and Presidential Impact
 
 ## In this step, you have worked on your data and your questions and developed them to some kind of conclusion. *Each person* in the group should create a google doc and share it with me. If you're working closely with your group, you are welcome to share in the writing.  In other words, if there are duplicate passages in the documents, that is *not* academic dishonesty.
 
