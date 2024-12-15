@@ -1,17 +1,14 @@
 # Analyzing Economic Trends: S&P 500 Performance, GDP Growth, and Presidential Impact
 
-## In this step, you have worked on your data and your questions and developed them to some kind of conclusion. *Each person* in the group should create a google doc and share it with me. If you're working closely with your group, you are welcome to share in the writing.  In other words, if there are duplicate passages in the documents, that is *not* academic dishonesty.
+## Project Overview
+This project investigates the relationship between economic indicators such as GDP growth, stock market performance (S&P 500), and political factors including presidential administrations and congressional control. The analysis highlights trends, correlations, and insights across decades of economic and political data.
 
-1. ## Who is in your group?
+## Group Members
+- Abd Alghani Rahmoun
+- Cedric Nyagatare
 
-   **Abd Alghani Rahmoun and Cedric Nyagatare**
-
-2. ## Give a title for the project.
-
-   **Analyzing Economic Trends: S\&P 500 Performance, GDP Growth, and Presidential Impact**
-
-3. ## Introduction, Methods & Results, and Conclusions
-
+## Colab Worksheet
+Access the Colab worksheet with the analysis and visualizations [here](https://colab.research.google.com/drive/1c2FPResnkg_V9Ull1de4L-d6xcJqO55e?usp=sharing).
 1. ### **Introduction**. Describe the data and data source(s). Describe the question(s) you are attempting to answer. Give a broad overview of your analysis approach.
 
    **Data and data source(s) (Data range is (1992,12/03/2024\])**
