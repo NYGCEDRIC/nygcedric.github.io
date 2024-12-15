@@ -45,7 +45,7 @@ Access the Colab worksheet with the analysis and visualizations [here](https://c
   **Visualizations **
 
 [![][image1]](https://drive.google.com/file/d/1GSg1zKzPDAOznfS99_efjgGyUGI2pqBT/view?usp=drive_link)  
-  Click on the image to interact with the chart and explore the data, including S\&P 500 performance and GDP trends under Democratic (blue) and Republican (red) administrations.  
+  **Click on the image to interact with the chart and explore the data**, including S\&P 500 performance and GDP trends under Democratic (blue) and Republican (red) administrations.  
 [![][image2]](https://drive.google.com/file/d/1gry-ZZnNPumTI3QXLGhXdfklqlynxWbW/view?usp=sharing)  
 Volatility trends of S\&P 500 during election cycles.under Democratic (blue) and Republican (red) administrations.
 
@@ -56,7 +56,7 @@ Volatility trends of S\&P 500 during election cycles.under Democratic (blue) and
 ![][image5]  
 S\&P 500 performance of Price closes at the end of each year over time since 1993 by sector where Democratic (blue) and Republican (red) are in the white house 
 
-### **Conclusions** 
+**Conclusions** 
 
 
  **Impact of Presidential Administrations on S\&P 500 Performance**
@@ -79,7 +79,7 @@ S\&P 500 performance of Price closes at the end of each year over time since 199
 
    Sector analysis shows varying performance across industries, with the Technology sector experiencing significant growth during the dot-com era and the mid-2010s tech boom. Energy also shows significant fluctuations corresponding to changes in oil prices and energy policies. This variability highlights the influence of both macroeconomic factors and sector-specific events on market performance, underscoring the need for diversified investment strategies to mitigate risks associated with economic cycles and policy changes.
 
- ### **Conclusion** 
+ **Conclusion** 
 
    Our analysis has shed light on the nuanced relationships between political climates, economic indicators, and the S\&P 500's performance, revealing key insights into how different administrations influence market dynamics.
 
@@ -89,7 +89,7 @@ S\&P 500 performance of Price closes at the end of each year over time since 199
 
    Overall, this exploration underscores that while markets respond to immediate political changes, long-term performance is deeply connected to broader economic policies and the global economic landscape. These insights are invaluable for investors and policymakers, providing the necessary context to anticipate market trends and make informed decisions in a politically dynamic economic environment. This balanced perspective recognizes the complex interplay between politics, economics, and market performance, emphasizing the importance of a well-rounded understanding in navigating investment strategies.
 
- ### **Limitations**
+**Limitations**
 
 - **Data Scope and Availability**: Limited data might not capture all factors affecting the S\&P 500, such as global events or unexpected market shifts.  
 - Historical Bias: Past market trends may not reliably predict future movements due to evolving economic and political landscapes.  
@@ -98,7 +98,7 @@ S\&P 500 performance of Price closes at the end of each year over time since 199
 - Sector-Specific Variations: Differences in industry-specific dynamics might not be fully accounted for, affecting the accuracy of sectoral analysis.  
 - **Time Lag Effects:** Economic policies often have delayed impacts on the markets, complicating the attribution of effects to specific policies or administrations.
 
- ### **Areas for Further Study**
+**Areas for Further Study**
 
    Further research could focus on sector-specific responses, global market influences, and predictive modeling of market trends under varying political conditions and political policies (Tax cuts, tariffs, investment incentives). This analysis provides a foundation but highlights the need for more detailed investigations.
 
