@@ -1,4 +1,3 @@
-# Analyzing Economic Trends: S&P 500 Performance, GDP Growth, and Presidential Impact
 
 ## Project Overview
 This project investigates the relationship between economic indicators such as GDP growth, stock market performance (S&P 500), and political factors including presidential administrations and congressional control. The analysis highlights trends, correlations, and insights across decades of economic and political data.
